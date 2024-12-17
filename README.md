@@ -1,4 +1,9 @@
-## Hi there 👋
+Maidann Mhath ! fàilte gu mo GitHub taobh-duilleige. / Good Morning ! welcome to my GitHub page.
+
+Name - Jude
+Pronouns - He/Him
+
+Aspiring software developer/computer science major using GitHub for personal and college projects.
 
 <!--
 **HeyJud3/HeyJud3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
