@@ -1,7 +1,6 @@
 Maidann Mhath ! fàilte gu mo GitHub taobh-duilleige. / Good Morning ! welcome to my GitHub page.
 
-Name - Jude
-Pronouns - He/Him
+Name - Jude / Pronouns - He/Him
 
 Aspiring software developer/computer science major using GitHub for personal and college projects.
 
